@@ -1,0 +1,13 @@
+<table height="230px" background="images/header1.jpg">
+    <tr>
+        <td colspan="3"></td>
+        <td colspan="3" style="font-size: 4em; font-weight: bold" valign="bottom">Re:Zero</td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+        <td colspan="4" style="font-size: 1.3em; font-weight: bold;" valign="top">Новелла, Арки, Побочные истории, и тд.</td>
+    </tr>
+    <tr>
+        <td width="400px"></td>
+        <td width="70px"><a href="#">HOME</a></td>
+</table>	 

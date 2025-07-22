@@ -1,0 +1,7 @@
+.container {
+  width: 100%;
+  max-width: 1024px; /*максимальная ширина может иметь другое значение*/
+  padding: 0 10px;
+  margin: 200 auto;
+  
+}

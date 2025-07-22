@@ -1,0 +1,4 @@
+.with-line {
+    border-left: 5px solid white; /* ирина линии = 5 пикселей, цвет белый */
+    padding-left: 10px;          /* Ћтступ от линии до текста */
+}

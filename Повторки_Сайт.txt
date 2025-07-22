@@ -1,9 +1,0 @@
-повторки: 
-19,33,36,37,38,39
-
-https://postimg.cc/files - Сайт
-
-<a target="_blank"  rel="gallery" class="photo" href="" 
-title="Картинка 1"><img src="" width="250" height="150" alt="" /></a>
-
-<p style="text-align: center">Text</p> - Текст по центру
